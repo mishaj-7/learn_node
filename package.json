@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "express": "^4.18.2",
     "lodash": "^4.17.21",
     "readline-sync": "^1.4.10",
     "upper-case": "^3.0.0"
