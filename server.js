@@ -39,6 +39,6 @@ http.createServer((req, res) => {
     }
 
 
-}).listen(7002,()=> console.log('server satrted'));
+}).listen(7002,()=> console.log('server satrted')); 
 
 
